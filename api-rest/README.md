@@ -24,6 +24,6 @@
 
 ### `api/v1/noticias` Que liste una noticia al pasarle un id por query string
 
-### `api/v1/noticias/full-description` Que liste las noticias cuyas descripciones superen los 20 caracteres
+### `api/v1/noticias/full-descriptions` Que liste las noticias cuyas descripciones superen los 20 caracteres
 
 ### `api/v1/noticias/titles` que liste solamente los titulos de las noticias.
